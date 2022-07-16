@@ -2,7 +2,7 @@
 
 My name is Aleksandr and I'm from Cheboksary, Russia.
 
-##Technologies and Languages
+## Technologies and Languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=bb00db)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=bb00db)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=bb00db)
