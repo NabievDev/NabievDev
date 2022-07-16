@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-## My name is Aleksandr and I'm from Cheboksary, Russia.
+My name is Aleksandr and I'm from Cheboksary, Russia.
 
 ## Technologies and Languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=bb00db)
