@@ -12,4 +12,3 @@ My name is Aleksandr and I'm from Cheboksary, Russia.
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NabievDev&theme=vue&title_color=bb00db&icon_color=bb00db)
-![](https://github-readme-stats.vercel.app/api/pin/?username=NabievDev&repo=PortfolioFlask&theme=vue&title_color=bb00db&icon_color=bb00db)
